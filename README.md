@@ -1,4 +1,4 @@
-# 🏰 SIMULÁTOR VESNICE (Village Simulator)
+# 🏰 SIMULÁTOR VESNICE
 
 **Středoškolský projekt - Webová hra v PHP**
 
